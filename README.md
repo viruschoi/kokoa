@@ -1,3 +1,3 @@
 # Kokoa2 update
 
-CSS got so much better!
+HTMAL & CSS are so much fun!
